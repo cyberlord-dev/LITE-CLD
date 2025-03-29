@@ -1,2 +1,2 @@
 # LITE-CLD
-Simple JavaScript WhatsApp  bot cyberlord-dev
+Simple JavaScript WhatsApp  bot by Cyber Lord
